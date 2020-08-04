@@ -1,0 +1,71 @@
+body {
+    background-color: #f0ece2;
+    font-family: 'Shadows Into Light', cursive;
+    margin: auto 20% auto 20%;
+}
+.images {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    display: block;
+
+}
+img {
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    display: block;
+    position: absolute;
+    
+    
+    
+}
+input {
+    background-color: #f0ece2;
+    border-radius: 5%;
+    width: 240;
+    
+    margin-bottom: 2%;
+    font-size: 30px;
+    text-align: center;
+    cursor: auto;    
+}
+
+
+.btn {
+    background-color: #343a40;
+    color: #f0ece2;
+    font-family: 'Shadows Into Light', cursive;
+    width: 700px ;
+    height: 100px;
+    font-size: 50px;
+    margin: 40px auto 60px auto;
+    display: block;
+
+    }
+
+.btn:hover { 
+    background-color:#202124;
+    border-color:#202124;
+    color: white;
+    }
+.Player1, .Player2 {
+    text-align: center;
+    width: 49%;
+    display: inline-block;
+}
+
+.hidden {
+    visibility: hidden;
+}
+#result {
+    font-size: 50px;
+    margin-top: 60px;
+    text-align: center;
+}
+
+button {
+    background-color: #feceab;
+   
+}
+
